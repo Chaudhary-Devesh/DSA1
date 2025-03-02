@@ -43,6 +43,7 @@ public class linkedlist {
         }
         return count;
     }
+    
     public static void main(String[] args) {
         linkedlist ll = new linkedlist();
         // ll.addfirst(1);
